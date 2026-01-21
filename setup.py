@@ -9,7 +9,7 @@ setup(
     name="icedualnet",
     version="1.0.0",
     author="IceDualNet Contributors",
-    author_email="your.email@example.com",
+    author_email="yuechooo@163.com",
     description="Dual-path neural network for ICESat-2 sea ice classification",
     long_description=long_description,
     long_description_content_type="text/markdown",
